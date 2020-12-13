@@ -18,7 +18,7 @@ Try out the demo on [Expo Snack](https://snack.expo.io/@aboliga7/react-native-si
 
 ```js
 import { AntDesign } from '@expo/vector-icons'
-import { SimpleSelectButton } from 'react-native-simple-select-button';
+import SimpleSelectButton from 'react-native-simple-select-button';
 
 <SimpleSelectButton
   text="Button 1"
