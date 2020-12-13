@@ -5,7 +5,7 @@
 A dead simple slightly customizable react native select button I created while learning react native basics. 
 This module was created during the confinement period and the goal was to make it work ;)
 
-Try out the demo on [Expo Snack](https://snack.expo.io/@aboliga7/react-native-simple-select-button)
+Try out the demo on [Expo Snack](https://snack.expo.io/@aboliga7/github.com-ebaneck-react-native-simple-select-button:example)
 
 ## Usage
 
