@@ -1,0 +1,63 @@
+{
+  "name": "react-native-simple-select-button",
+  "version": "0.0.5",
+  "description": "Simple slightly customizable button select library for react native",
+  "main": "index.js",
+  "repository": "git@github.com:Ebaneck/react-native-simple-select-button.git",
+  "author": "ClaudeEbaneck <claudeforlife@gmail.com>",
+  "license": "MIT",
+  "bugs": "https://github.com/Ebaneck/react-native-simple-select-button.git/issues",
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "react native",
+    "mobile",
+    "ios",
+    "android",
+    "ui",
+    "Button",
+    "button-select",
+    "react",
+    "react-native",
+    "javascript",
+    "rn"
+  ],
+  "scripts": {
+    "lint": "eslint .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ebaneck/react-native-simple-select-button.git"
+  },
+  "peerDependencies": {
+    "react": ">= 16.x.x",
+    "react-native": ">=0.63.x",
+    "react-native-vector-icons": ">= 6.x.x"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.53",
+    "@types/react-native": "^0.63.25",
+    "react-native-typescript-transformer": "^1.2.13",
+    "typescript": "^4.0.3",
+    "@react-native-community/eslint-config": "^2.0.0",
+    "eslint": "^7.11.0",
+    "eslint-config-airbnb": "^18.2.0",
+    "husky": "^4.3.0",
+    "lint-staged": "^10.4.2",
+    "prettier": "^2.1.2"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "./src/*.{js,jsx,ts,tsx}": [
+      "npx prettier --write",
+      "eslint src/*.js --fix-dry-run"
+    ]
+  }
+}
