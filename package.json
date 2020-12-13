@@ -1,6 +1,6 @@
 {
   "name": "react-native-simple-select-button",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Simple slightly customizable button select library for react native",
   "main": "index.js",
   "repository": "git@github.com:Ebaneck/react-native-simple-select-button.git",
