@@ -2,7 +2,7 @@
 
 [![npm](https://img.shields.io/npm/v/react-native-simple-select-button.svg)](https://www.npmjs.com/package/react-native-simple-select-button) [![npm](https://img.shields.io/npm/dm/react-native-simple-select-button.svg)](https://www.npmjs.com/package/react-native-simple-select-button) [![runs with expo](https://img.shields.io/badge/Runs%20with%20Expo-4630EB.svg?logo=EXPO&labelColor=f3f3f3&logoColor=000)](https://expo.io/)
 
-A dead simple slightly customizable react native select button I created while learning react native basics. 
+A simple slightly customizable react native select button I created while learning react native basics. 
 This module was created during the confinement period and the goal was to make it work ;)
 
 Try out the demo on [Expo Snack](https://snack.expo.io/@aboliga7/github.com-ebaneck-react-native-simple-select-button:example)
